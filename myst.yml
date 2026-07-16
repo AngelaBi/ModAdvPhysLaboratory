@@ -10,9 +10,9 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
-  # options:
+  options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo: logo.png
   nav:
     # The first entry acts as your homepage/landing page
     - title: Home
