@@ -13,3 +13,53 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+  nav:
+    # The first entry acts as your homepage/landing page
+    - title: Home
+      url: /intro
+
+    # A standalone chapter
+    #- file: introduction.md
+
+    # A chapter grouped with multiple sub-pages (nested files)
+    - title: Advanced Physics Laboratory
+      children:
+        - title: O1 Light
+          url: /Advanced/O1_Light
+        - title: O2 Prisms
+          url: /Advanced/O2_Prisms
+        - title: O3 Lenses
+          url: /Advanced/O3_Lenses
+        - title: O4 Polarization
+          url: /Advanced/O4_Polarization
+        - title: O5 Diffraction
+          url: /Advanced/O5_Diffraction
+        - title: O6 Interference
+          url: /Advanced/O6_Interference
+        - title: O7 Fresnel Coefficients
+          url: /Advanced/O7_FresnelCoefficients
+        - title: O8 Atomic Spectra
+          url: /Advanced/O8_AtomicSpectra
+        - title: O9 Single Photon Interference
+          url: /Advanced/O9_SinglePhotonInterference
+      #  - file: chapters/code-cells.md
+    # A chapter grouped with multiple sub-pages (nested files)
+    - title: Modern Physics Laboratory
+      children:
+        - title: L1 Frank-Hertz
+          url: /Modern/L1_Frank-Hertz
+        - title: L2 Blackbody Radiation
+          url: /Modern/L2_Blackbody-Radiation
+        - title: L3 LRC Circuit Resonance
+          url: /Modern/L3_LRC-Circuit-Resonance
+        - title: L4 Atomic Spectra
+          url: /Modern/L4_Atomic-Spectra
+        - title: L5 Photoelectric Effect
+          url: /Modern/L5_Photoelectric-Effect
+        - title: L6 Light Intensity and Speed of Light
+          url: /Modern/L6_Light-Intensity-and-Speed-of-Light
+        - title: L7 Hall Effect
+          url: /Modern/L7_Hall-Effect
+        - title: L8 Electron Diffraction
+          url: /Modern/L8_Electron-Diffraction
+      #  - file: chapters/code-cells.md    
