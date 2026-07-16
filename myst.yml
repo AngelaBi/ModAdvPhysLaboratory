@@ -23,43 +23,45 @@ site:
 
     # A chapter grouped with multiple sub-pages (nested files)
     - title: Advanced Physics Laboratory
+      url: /o1-light
       children:
         - title: O1 Light
-          url: /Advanced/O1_Light
+          url: /o1-light
         - title: O2 Prisms
-          url: /Advanced/O2_Prisms
+          url: /o2-prisms
         - title: O3 Lenses
-          url: /Advanced/O3_Lenses
+          url: /o3-lenses
         - title: O4 Polarization
-          url: /Advanced/O4_Polarization
+          url: /o4-polarization
         - title: O5 Diffraction
-          url: /Advanced/O5_Diffraction
+          url: /o5-diffraction
         - title: O6 Interference
-          url: /Advanced/O6_Interference
+          url: /o6-interference
         - title: O7 Fresnel Coefficients
-          url: /Advanced/O7_FresnelCoefficients
+          url: /o7-fresnelcoefficients
         - title: O8 Atomic Spectra
-          url: /Advanced/O8_AtomicSpectra
+          url: /o8-atomicspectra
         - title: O9 Single Photon Interference
-          url: /Advanced/O9_SinglePhotonInterference
+          url: /o9-singlephotoninterference
       #  - file: chapters/code-cells.md
     # A chapter grouped with multiple sub-pages (nested files)
     - title: Modern Physics Laboratory
+      url: /l1-frank-hertz
       children:
         - title: L1 Frank-Hertz
-          url: /Modern/L1_Frank-Hertz
+          url: /l1-frank-hertz
         - title: L2 Blackbody Radiation
-          url: /Modern/L2_Blackbody-Radiation
+          url: /l2-blackbody-radiation
         - title: L3 LRC Circuit Resonance
-          url: /Modern/L3_LRC-Circuit-Resonance
+          url: /l3-lrc-circuit-resonance
         - title: L4 Atomic Spectra
-          url: /Modern/L4_Atomic-Spectra
+          url: /l4-atomic-spectra
         - title: L5 Photoelectric Effect
-          url: /Modern/L5_Photoelectric-Effect
+          url: /l5-photoelectric-effect
         - title: L6 Light Intensity and Speed of Light
-          url: /Modern/L6_Light-Intensity-and-Speed-of-Light
+          url: /l6-light-intensity-and-speed-of-light
         - title: L7 Hall Effect
-          url: /Modern/L7_Hall-Effect
+          url: /l7-hall-effect
         - title: L8 Electron Diffraction
-          url: /Modern/L8_Electron-Diffraction
+          url: /l8-electron-diffraction
       #  - file: chapters/code-cells.md    
