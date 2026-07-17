@@ -28,7 +28,7 @@ parts:
       - file: Modern/L1_Franck-Hertz
       - file: Modern/L2_Blackbody-Radiation
       - file: Modern/L3_LRC-Circuit-Resonance
-      - file: Modern/l4_Atomic-Spectra
+      - file: Modern/L4_Atomic-Spectra
       - file: Modern/L5_Photoelectric-Effect
       - file: Modern/L6_Light-Intensity-and-Speed-of-Light
       - file: Modern/L7_Hall-Effect
