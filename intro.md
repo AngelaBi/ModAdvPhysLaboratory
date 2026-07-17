@@ -1,26 +1,19 @@
 # Introduction
 
-I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
 
-% An admonition containing a note
-:::{note}
-Books are usually written on paper ... But Jupyter Book can create _websites_!
-:::
+PHYS 2285L - Modern Experimental Methods Lab
 
-If you sold 100 books at \$10 per book, you'd have \$1000 dollars according to [](#eq:book). If instead you publish your Jupyter Book to the web for free, you'd have \$0 dollars!
+This course offers lab experience in modern experimental methods and techniques. It involves lab investigation of fundamental concepts in modern physics including atomic, nuclear, solid-state, x-ray, acoustic, superconductivity, and quantum physics. Lab procedures emphasize hands-on work with basic experimental equipment such as vacuum systems, power supplies, electronics and instrumentation, detectors, diagnostic techniques, computer interfaces, data acquisition and control, hardware and software, etc. This lab course gives students maximum opportunity to work on their own with minimum supervision. Prerequisite: PHYS 2285.
 
-% An arbitrary math equation
-:::{math}
-:name: eq:book
 
-x \times y = z
-:::
+PHYS 3385L - Advanced Lab
 
-Sometimes when reading it is helpful to foster a _tranquil_ environment. The image in [](#fig:mountains) would be a perfect spot!
+This is an advanced laboratory class that builds on the skills learned in PHYS 2285L (Modern Lab). Whereas Modern Lab emphasized working with common experimental equipment, Advanced Lab emphasizes data collection and analysis techniques, as well as introducing you to more specialized experimental equipment. Students are also be expected to take more responsibility for the planning and execution of their experiments than in previous classes.  Prerequisite: PHYS 2285 and PHYS 2285L.
 
-% A figure of a photograph of some mountains, followed by a caption
-:::{figure} https://github.com/rowanc1/pics/blob/main/mountains.png?raw=true
-:label: fig:mountains
 
-A photograph of some beautiful mountains to look at whilst reading.
-:::
+This page includes all the experiments for:
+- Modern Physics Lab --- PHYS2285L
+- Advanced Physics Lab --- PHYS3385L
+
+```{tableofcontents}
+```

@@ -1,0 +1,46 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+#  - caption: Schedule
+#    chapters:
+#    - file: Schedule/schedulePHYS_summer
+#    - file: Schedule/scheduleByMeetingTimesAll
+#    - file: Schedule/schedulePHYS1171_1172
+#    - file: Schedule/schedulePHYS1145_1146
+#    - file: Schedule/scheduleByProfessor
+  - caption: Data Analysis Information
+    chapters:
+    - file: Intro/IntroToDataAnalysis
+    - file: Intro/DataAcquisition
+    - file: Intro/ErrorAnalysis
+    - file: Intro/GraphicalRepresentation
+  - caption: Software & Equipment
+    chapters:
+    - file: Intro/CapstoneNotes
+    - file: Intro/VernierCaliper
+    - file: Intro/GeneralEquipment
+  - caption: Modern Physics Lab Experiments
+    chapters:
+      - file: Modern/L1_Franck-Hertz
+      - file: Modern/L2_Blackbody-Radiation
+      - file: Modern/L3_LRC-Circuit-Resonance
+      - file: Modern/l4_Atomic-Spectra
+      - file: Modern/L5_Photoelectric-Effect
+      - file: Modern/L6_Light-Intensity-and-Speed-of-Light
+      - file: Modern/L7_Hall-Effect
+      - file: Modern/L8_Electron-Diffraction
+  - caption: Advanced Physics Lab Experiments
+    chapters:
+      - file: Advanced/O1_Light
+      - file: Advanced/O2_Prisms
+      - file: Advanced/O3_Lenses
+      - file: Advanced/O4_Polarization
+      - file: Advanced/O5_Diffraction
+      - file: Advanced/O6_Interference
+      - file: Advanced/O7_FresnelCoefficients
+      - file: Advanced/O8_AtomicSpectra
+      - file: Advanced/O9_SinglePhotonInterference

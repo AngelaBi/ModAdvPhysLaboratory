@@ -2,7 +2,7 @@
 version: 1
 project:
   id: c6cd4760-1f4d-44d3-8233-a654fbea0afb
-  title: Fairfield U. Physics Modern Lab & Advanced Lab Manuals
+  title:  Fairfield University Physics --- Modern Lab & Advanced Lab Manuals
   # description:
   # keywords: []
   # authors: []
@@ -13,17 +13,40 @@ site:
   options:
   #   favicon: favicon.ico
     logo: logo.png
+    style: "_static/custom.css"
+
   nav:
     # The first entry acts as your homepage/landing page
-    - title: Home
-      url: /intro
+    #- title: Home
+    #  url: /intro
 
     # A standalone chapter
     #- file: introduction.md
 
     # A chapter grouped with multiple sub-pages (nested files)
+
+    - title: Modern Physics Laboratory
+#      url: /l1-frank-hertz
+      children:
+        - title: L1 Franck-Hertz
+          url: /l1-franck-hertz
+        - title: L2 Blackbody Radiation
+          url: /l2-blackbody-radiation
+        - title: L3 LRC Circuit Resonance
+          url: /l3-lrc-circuit-resonance
+        - title: L4 Atomic Spectra
+          url: /l4-atomic-spectra
+        - title: L5 Photoelectric Effect
+          url: /l5-photoelectric-effect
+        - title: L6 Light Intensity and Speed of Light
+          url: /l6-light-intensity-and-speed-of-light
+        - title: L7 Hall Effect
+          url: /l7-hall-effect
+        - title: L8 Electron Diffraction
+          url: /l8-electron-diffraction
+      #  - file: chapters/code-cells.md    
     - title: Advanced Physics Laboratory
-      url: /o1-light
+#      url: /o1-light
       children:
         - title: O1 Light
           url: /o1-light
@@ -45,23 +68,6 @@ site:
           url: /o9-singlephotoninterference
       #  - file: chapters/code-cells.md
     # A chapter grouped with multiple sub-pages (nested files)
-    - title: Modern Physics Laboratory
-      url: /l1-frank-hertz
-      children:
-        - title: L1 Frank-Hertz
-          url: /l1-frank-hertz
-        - title: L2 Blackbody Radiation
-          url: /l2-blackbody-radiation
-        - title: L3 LRC Circuit Resonance
-          url: /l3-lrc-circuit-resonance
-        - title: L4 Atomic Spectra
-          url: /l4-atomic-spectra
-        - title: L5 Photoelectric Effect
-          url: /l5-photoelectric-effect
-        - title: L6 Light Intensity and Speed of Light
-          url: /l6-light-intensity-and-speed-of-light
-        - title: L7 Hall Effect
-          url: /l7-hall-effect
-        - title: L8 Electron Diffraction
-          url: /l8-electron-diffraction
-      #  - file: chapters/code-cells.md    
+
+
+

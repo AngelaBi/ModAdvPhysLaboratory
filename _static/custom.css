@@ -1,0 +1,32 @@
+
+
+figure img {
+  max-height: 400px;   /* set your desired max height */
+  height: auto;        /* scale height proportionally */
+  width: auto;
+}
+
+
+.full-height img {
+    max-height: none !important;
+}
+
+
+
+/*
+.inline-img-sm {
+    height: 60px !important;
+    width: auto !important;
+    vertical-align: middle !important;
+}
+.inline-img-md {
+    height: 80px !important;
+    width: auto !important;
+    vertical-align: middle !important;
+}
+.inline-img-lg {
+    height: 120px !important;
+    width: auto !important;
+    vertical-align: middle !important;
+}
+*/
