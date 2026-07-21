@@ -11,7 +11,9 @@ figure img {
     max-height: none !important;
 }
 
-
+img {
+  cursor: zoom-in;
+}
 
 /*
 .inline-img-sm {
