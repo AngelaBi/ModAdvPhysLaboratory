@@ -1,4 +1,4 @@
-# L-5: Photoelectric Effect
+# L-5 | Photoelectric Effect
 
 ## Pre-Lab Questions
 

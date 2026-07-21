@@ -24,6 +24,7 @@ parts:
     - file: Intro/VernierCaliper
     - file: Intro/GeneralEquipment
   - caption: Modern Physics Lab Experiments
+  - file: ListModernPhysicsLabs.md
     chapters:
       - file: Modern/L1_Franck-Hertz
       - file: Modern/L2_Blackbody-Radiation
@@ -34,6 +35,7 @@ parts:
       - file: Modern/L7_Hall-Effect
       - file: Modern/L8_Electron-Diffraction
   - caption: Advanced Physics Lab Experiments
+  - file: ListAdvancedPhysicsLabs.md
     chapters:
       - file: Advanced/O1_Light
       - file: Advanced/O2_Prisms

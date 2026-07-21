@@ -1,4 +1,4 @@
-# L-1: Frank-Hertz
+# L-1 | Frank-Hertz
 
 ## 1.1 Introduction
 

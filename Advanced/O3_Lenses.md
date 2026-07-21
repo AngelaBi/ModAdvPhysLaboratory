@@ -1,4 +1,4 @@
-# O-3: Lenses
+# O-3 | Lenses
 
 For any given lens, two numbers are required to characterize its behavior. There are more than one way to pick the numbers that parameterize your lens, but for this lab we'll use the simplest possible description. The first property is the diameter of the lens (we'll assume it's a round lens). This determines how much light the lens gathers and is part of what limits the quality of the image. The second property, and the one we'll be examining in this lab, is the focal length. If you use a lens to create an image of an object infinitely far away (a distant galaxy, for example), the focal length is defined as the distance from the lens to the image it makes of the galaxy. If the galaxy and the image are on opposite sides of the lens, then the focal length is positive and we say the lens is "convex"; if they are on the same side, then the focal length is negative and the lens is "concave."
 

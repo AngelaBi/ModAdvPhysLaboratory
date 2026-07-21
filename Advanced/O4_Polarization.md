@@ -1,4 +1,4 @@
-# O-4: Polarization
+# O-4 | Polarization
 
 This experiment consists of two sub-experiments to investigate polarization and discover the laws and the nature of the phenomena.
 

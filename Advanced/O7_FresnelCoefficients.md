@@ -1,4 +1,4 @@
-# O-7: Fresnel Coefficients
+# O-7 | Fresnel Coefficients
 
 As you saw in class, the intensity of light reflected by a dielectric interface is given by the Fresnel equations
 

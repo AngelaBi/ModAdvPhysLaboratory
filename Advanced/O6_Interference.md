@@ -1,4 +1,4 @@
-# O-6: Interference
+# O-6 | Interference
 
 Geometrical Optics say that light passing through a pair of hole should produce a pair hole-shaped spot on a screen. Wave optics, on the other hand, says the light will spread out and what's observed will be the sum (the *superposition*) of the two outgoing waves, and that is in fact what's observed.
 

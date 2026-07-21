@@ -1,4 +1,4 @@
-# L-3: LRC Circuit Resonance
+# L-3 | LRC Circuit Resonance
 
 ## 3.1 Introduction
 

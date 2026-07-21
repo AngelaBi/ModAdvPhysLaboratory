@@ -1,4 +1,4 @@
-# O-1: Light
+# O-1 | Light
 
 In this experiment you will be exploring the properties of light including its color, brightness, and the dynamics of reflections.
 

@@ -1,4 +1,4 @@
-# L-2: Blackbody Radiation
+# L-2 | Blackbody Radiation
 
 ## 2.1 Introduction
 

@@ -1,4 +1,4 @@
-# O-2: Prisms
+# O-2 | Prisms
 
 Prisms play many different roles in Optics; they can serve as beamsplitters, polarizing devices, and interferometers. A common function is to serve as a dispersive device. When a monochromatic light ray crosses from one medium (such as air) to another (such as acrylic), its path is bent (the light is *refracted*) by an amount that depends on the index of refraction of the two materials. If the index of refraction varies with frequency, then different colors are bent by different angles, producing a rainbow effect.
 

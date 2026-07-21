@@ -1,4 +1,4 @@
-# O-8: Atomic Spectra
+# O-8 | Atomic Spectra
 
 In Modern Physics (and also Astrophysics and Quantum Mechanics, if you've taken those classes), you learned about the energy levels of the hydrogen atom. In a hydrogen atom, the electrons are found only with very specific energies. The lowest possible energy state is called the ground state and is labelled $n=1$. The states with increasing energy are, in turn, labelled $n=2, 3, \ldots$. The energies are related through the simple formula
 

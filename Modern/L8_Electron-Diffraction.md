@@ -1,4 +1,4 @@
-# L-8: Electron Diffraction
+# L-8 | Electron Diffraction
 
 ## 8.1 Introduction
 

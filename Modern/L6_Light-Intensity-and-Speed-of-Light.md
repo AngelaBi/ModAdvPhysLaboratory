@@ -1,4 +1,4 @@
-# L-6: Light Intensity vs. Distance and Speed of Light
+# L-6 | Light Intensity vs. Distance and Speed of Light
 
 NOTE: You will be writting your lab report on Light Intensity vs. Distance.
 

@@ -1,4 +1,4 @@
-# L-7: Hall Effect
+# L-7 | Hall Effect
 
 ## 7.1 Introduction
 

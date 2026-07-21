@@ -1,4 +1,4 @@
-# O-5: Diffraction
+# O-5 | Diffraction
 
 Geometrical Optics say that light passing through a small hole should produce a hole-shaped spot on a distant screen. Wave optics, on the other hand, says the light will spread out in a process called *diffraction*, and that is in fact what's observed.
 

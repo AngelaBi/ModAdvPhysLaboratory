@@ -1,4 +1,4 @@
-# L-4: Atomic Spectra
+# L-4 | Atomic Spectra
 
 ## 4.1 Introduction
 

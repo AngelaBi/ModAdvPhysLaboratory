@@ -1,4 +1,4 @@
-# O-9: Single-photon Interference
+# O-9 | Single-photon Interference
 
 In experiment O-6 (Interference), you looked at the interference of a light wave as it passed through parallel slits and in class we analyzed the interference treating the light as an electromagnetic wave.
 
