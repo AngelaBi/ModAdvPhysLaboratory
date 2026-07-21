@@ -31,7 +31,7 @@ site:
 
 
     - title: Modern Physics Laboratory
-      url: /ListModernPhysicsLabs
+    #  url: /ListModernPhysicsLabs
       children:
         - title: L-1 | Franck-Hertz
           url: /l1-franck-hertz
@@ -51,7 +51,7 @@ site:
           url: /l8-electron-diffraction
       #  - file: chapters/code-cells.md    
     - title: Advanced Physics Laboratory
-      url: /ListAdvancedPhysicsLabs
+    #  url: /ListAdvancedPhysicsLabs
       children:
         - title: O-1 | Light
           url: /o1-light

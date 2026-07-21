@@ -15,6 +15,10 @@ img {
   cursor: zoom-in;
 }
 
+.myst-primary-sidebar-topnav {
+    display: none !important;
+}
+
 /*
 .inline-img-sm {
     height: 60px !important;
